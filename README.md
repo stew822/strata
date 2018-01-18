@@ -1,2 +1,2 @@
 # strata
-(in development) A specification for describing an application
+This repository is currently just a collection of notes in the wiki.
